@@ -1,0 +1,23 @@
+{
+  "projects": [
+    {
+      "name": "project 1",
+      "description": "this is project description 1 \n",
+      "completed": true,
+      "id": "kJZEW_ssVi0"
+    },
+    {
+      "name": "project 2",
+      "description": "this is project 2 description\n",
+      "completed": false,
+      "id": "LMJ0un9DUJs"
+    },
+    {
+      "name": "Project 3",
+      "description": "this is project 3 description",
+      "completed": false,
+      "id": "mQeLMeR1d2E"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
